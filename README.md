@@ -78,7 +78,7 @@ Conclusion
 The Solar Powered WiFi Weather Station is a robust, scalable, and energy-efficient solution for real-time weather monitoring. With its modular sensor design, custom PCB, solar power system, and low-power operation, it provides a reliable platform for collecting accurate localized weather data in both urban and remote environments.
 
 
-Components Used:
+*Components Used:
 1. ESP32 Dev Kit V1
 2. TP4056
 3. Barometric Pressure sensor BME280
@@ -103,7 +103,7 @@ Components Used:
 22. Jumper Wires M-F
 23. Slide Switch
 24. PCB
-Tools Used:
+*Tools Used:
 1. Soldering Iron 
 2. Nipper 
 3. Wire Stripper 
