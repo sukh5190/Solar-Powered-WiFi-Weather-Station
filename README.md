@@ -103,7 +103,7 @@ The Solar Powered WiFi Weather Station is a robust, scalable, and energy-efficie
 22. Jumper Wires M-F
 23. Slide Switch
 24. PCB
-*Tools Used:
+Tools Used:
 1. Soldering Iron 
 2. Nipper 
 3. Wire Stripper 
